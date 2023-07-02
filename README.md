@@ -1,5 +1,5 @@
 # TwinsTNet
-## The code is coming soon！
+The code is coming soon！
 
 ## Requirement
 Python 3.7.10+
