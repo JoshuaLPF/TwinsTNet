@@ -1,5 +1,13 @@
 # TwinsTNet
-The code is coming soon！
+## The code is coming soon！
+
+## Requirement
+Python 3.7.10+
+Pytorch 1.7.0+
+Torchvision
+Tensorboard
+TensorboardX
+Numpy
 
 # Datasets
 RGB-T Datasets (VT821,VT1000, VT50000): [link](https://pan.baidu.com/s/1Vv6mYz4RL2VnwWwZWKLHyA), fetch code (djas)
@@ -18,4 +26,4 @@ RGB-D: [link](https://pan.baidu.com/s/1GrN4mQFqOQLMwyLx3QlEWA), fetch code (do4y
 # Acknowledgements
 
 # Contact Us
-If you have any questions, please contact us ( lvpengfei1995@163.com ).
+If you have any questions, please get in touch with us ( lvpengfei1995@163.com ).
