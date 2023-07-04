@@ -16,8 +16,8 @@ The code is coming soon！
 - RGB-T:
 - RGB-D:
 # Saliency maps (Results)
-- RGB-T: Baidu cloud disk [link](https://pan.baidu.com/s/1KCXc7pqu_Pf0fmhWJm4eqQ), fetch code (yabo)
-- RGB-D: Baidu cloud disk [link](https://pan.baidu.com/s/1GrN4mQFqOQLMwyLx3QlEWA), fetch code (do4y)
+- RGB-T maps: Baidu cloud disk [link](https://pan.baidu.com/s/1KCXc7pqu_Pf0fmhWJm4eqQ), fetch code (yabo)
+- RGB-D maps: Baidu cloud disk [link](https://pan.baidu.com/s/1GrN4mQFqOQLMwyLx3QlEWA), fetch code (do4y)
 # Acknowledgements
 # Contact Us
 If you have any questions, please get in touch with us ( lvpengfei1995@163.com ).
