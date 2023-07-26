@@ -19,6 +19,8 @@ The code is coming soon！
 - RGB-T maps: Baidu cloud disk [link](https://pan.baidu.com/s/1KCXc7pqu_Pf0fmhWJm4eqQ), fetch code (yabo)
 - RGB-D maps: Baidu cloud disk [link](https://pan.baidu.com/s/1GrN4mQFqOQLMwyLx3QlEWA), fetch code (do4y)
 # Acknowledgements
-Thanks to all the seniors who put in the effort. And thanks to all the researchers of open source code, including Youwei Pang, Zhengyi Liu, Kecheng Song, Runmin Cong, and Zhengzheng Tu. Special thanks to Youwei Pang for discussing with me some of the ideas in this work.
+- Thanks to all the seniors who put in the effort. 
+- Thanks to all the researchers of open source code, including Youwei Pang, Zhengyi Liu, Kecheng Song, Runmin Cong, and Zhengzheng Tu.
+- Special thanks to Youwei Pang for discussing with me some of the ideas in this work.
 # Contact Us
 If you have any questions, please get in touch with us ( lvpengfei1995@163.com ).
