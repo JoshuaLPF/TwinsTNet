@@ -14,7 +14,7 @@ The code is coming soon！
 ## Saliency maps (Results)
 - RGB-T saliency maps: Baidu cloud disk [link](https://pan.baidu.com/s/1mF-C-j9WRfjrqWoQk7gLUg), fetch code (9ec6)
 - RGB-D saliency maps: Baidu cloud disk [link](https://pan.baidu.com/s/11mhwd9ClYJz1PgX21FmbRA), fetch code (hgud)
-- **Note that saliency maps of all compared methods in the paper are available from their authors' homepages.**
+- **Note that saliency maps of all compared methods in the paper are obtained from their authors' homepages.**
 ## Acknowledgements
 - Thanks to all the seniors who put in the effort. 
 - Thanks to all the researchers of open source code, including **Youwei Pang**, **Zhengyi Liu**, **Kechen Song**, **Runmin Cong**, and **Zhengzheng Tu**.
