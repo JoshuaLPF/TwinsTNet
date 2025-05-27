@@ -1,6 +1,18 @@
 # TwinsTNet -- TIP 2025
 The code is coming soon！
-
+- Please cite our paper if you find it useful for your research.
+```
+@ARTICLE{10982382,
+  author={Lyu, Pengfei and Yu, Xiaosheng and Chi, Jianning and Wu, Hao and Wu, Chengdong and Rajapakse, Jagath C.},
+  journal={IEEE Transactions on Image Processing}, 
+  title={TwinsTNet: Broad-View Twins Transformer Network for Bi-Modal Salient Object Detection}, 
+  year={2025},
+  volume={34},
+  number={},
+  pages={2796-2810},
+  publisher={IEEE}
+}
+```
 ## Requirement
 - Python (3.7.10+), Pytorch (1.7.0+), Cuda, Torchvision, Tensorboard, TensorboardX, Numpy.
 ## Datasets
