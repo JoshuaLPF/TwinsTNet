@@ -32,7 +32,7 @@ The code is coming soon！
 | STERE | 0.945 | 0.925 | 0.905 | 0.913 | 0.029 |
 | ReDWeb | 0.780 | 0.756 | 0.696 | 0.728 | 0.109 |
 ## Evaluation Metrics Toolbox
-- The Evaluation Metrics Toolbox is available here: [link](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).
+- The Evaluation Metrics Toolbox is available [here](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).
 ## Acknowledgements
 - Thanks to all the seniors who put in the effort.
 ## Contact Us
