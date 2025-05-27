@@ -13,15 +13,7 @@ The code is coming soon！
 - Training on NLPR and NJUD, Baidu cloud disk [link](https://pan.baidu.com/s/1jDlSbE7qp3M6RWGFb1JZnA), fetch code (putl)
 - Training on NLPR, NJUD and DUT-RGBD, Baidu cloud disk [link](https://pan.baidu.com/s/1PI9CEDvqGbmOjhDUFmgEng), fetch code (rlex)
 ## Results
-- RGB-T:
-- 
-
-| | Em | Sm | wF | Fm | MAE |
-
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-
-| VT821 | 111 | 111 | | | |
-
+- RGB-T: The RGB-T results can be download here.
 |  | *Em* | *Sm* | *wF* | *Fm* | *MAE* |
 | :------: | :------: | :------: | :------: | :------: | :------: |
 | VT821 | 内容行 1 | 内容行 1 | 内容行 1 | 内容行 1 | 内容行 1 |
