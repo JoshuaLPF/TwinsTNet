@@ -1,5 +1,5 @@
 # TwinsTNet -- TIP 2025
-The code is coming soon！
+
 - Please cite our paper if you find it useful for your research.
 ```
 @article{lyu2025twinstnet,
